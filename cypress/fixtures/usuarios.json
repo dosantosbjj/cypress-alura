@@ -1,0 +1,20 @@
+[  
+    { 
+        "email" : "han.solo@gmail.com",
+        "fullName" : "Han Solo",
+        "userName" : "hansolo",
+        "password" : "chewie"
+    }, 
+    {
+        "email": "jarjar@gmail.com",
+        "fullName": "Jar Jar Binks",
+        "userName": "jarjar",
+        "password": "bumba"
+    },
+    {
+        "email": "lando@gmail.com",
+        "fullName": "Lando Calrissian",
+        "userName": "lando",
+        "password": "lando"
+    }
+]
