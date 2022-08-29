@@ -11,5 +11,13 @@ Repositório do curso de automação de testes Web com Cypress da Alura. Alguns 
 - Geração de reports customizados com Mochawesome;
 - Cypress dashboard;
 - Teste headless;
+- Organização dos testes;
+- Variáveis de ambiente;
+- Uso de URL base; 
+- Mocks e stubs; 
+- Boas práticas de teste; 
+
 #
-Conforme o andamento do curso, irei atualizando o repositório com os novos recursos que forem absorvidos por meio dos exercícios.
+Curso finalizado em 29/08/2022. 
+
+Apenas o início da especialização em testes de software que está em andamento. 
